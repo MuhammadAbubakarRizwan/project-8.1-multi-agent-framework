@@ -1,0 +1,34 @@
+[
+  {
+    "id": "brief-001",
+    "type": "blog_post",
+    "topic": "Why mid-market logistics companies are automating claims processing",
+    "audience": "Operations leaders at logistics companies with 50-500 employees",
+    "tone": "Practical, no hype, evidence-led",
+    "constraints": "Must not name specific competitor products. No unverified statistics."
+  },
+  {
+    "id": "brief-002",
+    "type": "campaign_copy",
+    "topic": "Launch announcement for the new SSO feature",
+    "audience": "Existing enterprise clients and warm prospects",
+    "tone": "Confident, concise, security-forward",
+    "constraints": "Must mention SAML compatibility. Avoid absolute claims like '100% secure.'"
+  },
+  {
+    "id": "brief-003",
+    "type": "blog_post",
+    "topic": "A plain-language explainer on SOC2 compliance for buyers who aren't security specialists",
+    "audience": "Non-technical decision makers evaluating vendors",
+    "tone": "Educational, reassuring, jargon-free where possible",
+    "constraints": "Must be factually accurate about what SOC2 does and does not guarantee. No fear-based framing."
+  },
+  {
+    "id": "brief-004",
+    "type": "campaign_copy",
+    "topic": "Re-engagement email for prospects who went cold after a demo",
+    "audience": "Leads who had a demo call 60+ days ago with no follow-up response",
+    "tone": "Low-pressure, genuinely helpful, short",
+    "constraints": "No discount or urgency tactics. Must offer a clear, easy next step."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "lead-001",
+    "name": "Dana Whitfield",
+    "company": "Northbridge Logistics",
+    "source": "website_form",
+    "notes": "Asked about API integration timeline. Budget not yet confirmed."
+  },
+  {
+    "id": "lead-002",
+    "name": "Marcus Ade",
+    "company": "Coral Peak Retail",
+    "source": "referral",
+    "notes": "Referred by an existing client. Wants a demo within two weeks."
+  },
+  {
+    "id": "lead-003",
+    "name": "Priya Nandan",
+    "company": "Ferrow Health Group",
+    "source": "linkedin_outreach",
+    "notes": "Downloaded the compliance whitepaper. No response to first follow-up yet."
+  },
+  {
+    "id": "lead-004",
+    "name": "Owen Castellan",
+    "company": "Brackenfield Insurance",
+    "source": "conference",
+    "notes": "Met at a conference booth. Interested but says decision is 6 months out."
+  },
+  {
+    "id": "lead-005",
+    "name": "Lina Osei",
+    "company": "Ridgemark Manufacturing",
+    "source": "cold_email",
+    "notes": "Opened three emails, no reply. Company recently raised a funding round."
+  },
+  {
+    "id": "lead-006",
+    "name": "Tomas Vell",
+    "company": "Ashgrove Media",
+    "source": "website_form",
+    "notes": "Filled out pricing page form. Small team, likely price sensitive."
+  },
+  {
+    "id": "lead-007",
+    "name": "Renata Ibori",
+    "company": "Kestrel Financial Services",
+    "source": "referral",
+    "notes": "Existing client's CFO introduced them directly. High intent."
+  },
+  {
+    "id": "lead-008",
+    "name": "Callum Reyes",
+    "company": "Marrow Point Analytics",
+    "source": "webinar",
+    "notes": "Attended the full webinar and asked two questions in the Q&A."
+  }
+]

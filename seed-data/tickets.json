@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ticket-001",
+    "title": "Add CSV export to the client dashboard",
+    "description": "Clients want to export their usage data as a CSV file from the reporting tab.",
+    "requested_by": "Sales team, on behalf of Kestrel Financial Services",
+    "priority": "medium"
+  },
+  {
+    "id": "ticket-002",
+    "title": "Fix pagination bug on the invoices list",
+    "description": "The invoices list shows duplicate rows when navigating past page 3.",
+    "requested_by": "Support",
+    "priority": "high"
+  },
+  {
+    "id": "ticket-003",
+    "title": "Add single sign-on (SSO) support",
+    "description": "Enterprise prospects are asking for SAML-based SSO before they will sign.",
+    "requested_by": "Sales team, on behalf of Brackenfield Insurance",
+    "priority": "high"
+  },
+  {
+    "id": "ticket-004",
+    "title": "Improve mobile layout on the settings page",
+    "description": "Settings page form fields overflow on small screens.",
+    "requested_by": "Product",
+    "priority": "low"
+  },
+  {
+    "id": "ticket-005",
+    "title": "Add audit log for admin actions",
+    "description": "Admin actions (user removal, role changes, billing changes) need a visible, timestamped audit trail.",
+    "requested_by": "Compliance",
+    "priority": "medium"
+  },
+  {
+    "id": "ticket-006",
+    "title": "Speed up the reports page load time",
+    "description": "The reports page takes over 8 seconds to load for accounts with more than 10,000 records.",
+    "requested_by": "Support",
+    "priority": "high"
+  }
+]
